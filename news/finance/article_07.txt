@@ -1,0 +1,73 @@
+Title: Do you know the true cost of identity theft?
+
+========================================
+
+LexisNexis Special Services CEO Haywood Talcove calls out the 'cyber terrorists' for attacking the U.S. on 'Fox News Live.'
+
+Identity theft tied to major data broker breaches has cost Americans more than $20 billion over the past decade, according to a 2026 report from the U.S. Senate Joint Economic Committee.
+
+That figure comes from just four breaches: Equifax (2017), Exactis (2018), National Public Data (2023) and TransUnion (2025). The estimate applies federal identity-theft loss data, including a typical loss of about $200 per victim, across hundreds of millions of exposed records.
+
+The result is a multibillion-dollar total. It's also a narrow one. The calculation shows reported financial losses. It doesn't account for damaged credit files, delayed loan approvals, higher borrowing costs or the hours consumers spend restoring their financial records after misuse.
+
+So where does that leave you?
+
+Sign up for my FREE CyberGuy ReportGet my best tech tips, urgent security alerts and exclusive deals delivered straight to your inbox. Plus, you’ll get instant access to my Ultimate Scam Survival Guide – free when you join my CYBERGUY.COM newsletter.
+
+HOW DEBIT CARD FRAUD CAN HAPPEN WITHOUT USING THE CARD
+
+Massive data breaches at Equifax, Exactis, National Public Data and TransUnion exposed personal information that criminals later used for identity theft and financial fraud. (Nastasic/Getty Images)
+
+The $200 figure used in the federal estimate is a median. It marks the midpoint of reported identity theft losses collected by the FTC. Many cases fall above it. FTC Consumer Sentinel data shows that losses swing widely depending on how the fraud happens. When money is moved through bank transfers or payment apps, reported median losses are markedly higher than in cases involving unauthorized credit card charges.
+
+Loan or lease fraud can leave you with balances that need formal disputes before lenders correct the record. Reversing a charge doesn't automatically restore a credit file. Accounts opened in your name can generate hard inquiries.
+
+Missed payments linked to fraudulent loans can appear before the account is identified as fraudulent. And lenders reviewing a mortgage or auto application evaluate the report as it exists at that time. A $200 median captures a reported dollar amount. It falls short of showing how identity misuse can stifle borrowing terms or access to credit later.
+
+After identity theft, the first step the FTC directs you to take is to file a report at IdentityTheft.gov. That generates a recovery plan and an identity theft report, which can be used to dispute fraudulent accounts. This is your starting point, and not anywhere close to a resolution.
+
+Victims are instructed to contact each affected creditor directly, close or freeze compromised accounts and request written confirmation that the account was fraudulent. If a new line of credit was opened, that often requires submitting more documentation, completing affidavits and following up until the lender updates its reporting to the credit bureaus.
+
+The FTC also advises placing a fraud alert with one of the three nationwide credit bureaus, which must notify the others. A credit freeze must be placed separately with each bureau. If you later apply for credit, they must temporarily lift the freeze before lenders can access your credit report. The Identity Theft Resource Center (ITRC) reports that victims frequently spend weeks resolving cases involving new account fraud. Complex cases can stretch even longer, especially when collection agencies become involved or when fraudulent tax returns trigger IRS identity verification.
+
+1 BILLION IDENTITY RECORDS EXPOSED IN ID VERIFICATION DATA LEAK
+
+An identity theft victim in Albany, New York, looks over documents he's gathered. Victims of identity theft frequently spend weeks disputing fraudulent accounts, contacting lenders and restoring their credit reports after stolen data is misused. (John Carl D'Annibale/Albany Times Union via Getty Images)
+
+During that period, you may be gathering records, mailing certified letters, waiting on hold with creditors or tracking dispute deadlines. The process moves at the pace of institutional review. All this time required to repair records is part of the cost of your stolen identity.
+
+Earlier this year, a 57-year-old woman in Los Alamitos, California, discovered her identity had been stolen after receiving a voicemail from a Hertz rental location in Miami asking when she planned to return a Mercedes-Benz. She had never rented the vehicle, reported $78,500 in losses and spent nearly 10 days trying to recover from a single stolen ID.
+
+In its March 2025 Consumer Sentinel Network release, the FTC said consumers lost more than $12.5 billion to fraud in 2024, a 25% increase from 2023. Identity theft made up a large share of those reports. When misuse goes undetected, it spreads.
+
+A stolen Social Security number can be used to open multiple accounts over time. Hard inquiries appear across different credit bureaus. New lenders and collection agencies show up, and each additional account adds another dispute you need to resolve. Identity theft often doesn't stop after the first incident.
+
+The ITRC says 31.5% of general consumer victims were targeted twice in a year, and 24.6% were hit three times last year. Even though fewer people reported a first-time identity theft, repeat targeting is becoming more common. Once your information is exposed, it can be used again. Losses can grow fast, too.
+
+The same ITRC report found that more than 20% of victims reported losses exceeding $100,000. As the fraud spreads, so does the cleanup. What starts as a single unauthorized account can turn into disputes with lenders, credit bureaus and collection agencies. That buildup over time is where identity theft becomes more expensive.
+
+If you rely on occasional credit checks or alerts from a single bank, you're only seeing activity tied to one account. If fraud appears elsewhere, it may not surface until a lender flags it.
+
+Identity protection services can track activity across all three major credit bureaus and alert you to new inquiries or accounts as they appear. Some also scan breach datasets for exposed personal identifiers, including Social Security numbers and email addresses. Earlier alerts mean fewer fraudulent accounts can accumulate before you step in.
+
+5 MYTHS ABOUT IDENTITY THEFT THAT PUT YOUR DATA AT RISK
+
+Identity theft tied to major data broker breaches has cost Americans more than $20 billion over the past decade, according to a Senate report. (Sara Diggins/The Austin American-Statesman via Getty Images)
+
+Many services provide three-bureau credit monitoring and real-time alerts when there are changes to your credit report. Some also scan known data breach records for exposed personal information and connect members with fraud resolution specialists who help with documentation and disputes. Certain plans include identity theft insurance that can help cover eligible recovery costs, subject to policy limits.
+
+Monitoring does not prevent every identity theft attempt. It can reduce how far fraud spreads and how long it takes to contain it.
+
+See my tips and best picks on Best Identity Theft Protection at Cyberguy.com.
+
+The numbers tied to major data broker breaches show just how expensive stolen information can become. A single exposed record may seem harmless at first, but once that information spreads through the data broker ecosystem, it can resurface again and again. For many victims, the real damage is not just the money lost. It is the time spent disputing accounts, repairing credit files and trying to stop fraud from spreading further. Identity theft rarely happens in one clean event. It often unfolds slowly as criminals reuse the same stolen details across multiple lenders, services and databases. The good news is that you are not powerless. Monitoring your credit, limiting how widely your personal information appears online and responding quickly to alerts can reduce the damage if your information is misused. The earlier you catch suspicious activity, the easier it is to stop it before it spreads.
+
+Have you ever checked your credit report or searched your name online and found information about yourself that surprised you? Let us know by writing to us at Cyberguy.com.
+
+CLICK HERE TO DOWNLOAD THE FOX NEWS APP
+
+Sign up for my FREE CyberGuy ReportGet my best tech tips, urgent security alerts and exclusive deals delivered straight to your inbox. Plus, you’ll get instant access to my Ultimate Scam Survival Guide – free when you join my CYBERGUY.COM newsletter.
+
+Copyright 2026 CyberGuy.com. All rights reserved.
+
+Kurt "CyberGuy" Knutsson is an award-winning tech journalist who has a deep love of technology, gear and gadgets that make life better with his contributions for Fox News & FOX Business beginning mornings on "FOX & Friends." Got a tech question? Get Kurt’s free CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com.

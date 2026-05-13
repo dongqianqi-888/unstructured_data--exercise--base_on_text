@@ -1,0 +1,85 @@
+Title: ATM jackpotting attacks surge across the US
+
+========================================
+
+Michael Crean, SVP of Managed Services at SonicWall discusses the rise in Iran-linked cyberattacks against U.S. infrastructure and medical tech firms like Stryker on ‘Fox Report.’
+
+You swipe your card and enter your PIN. You grab your cash and head out the door. It feels routine and secure. Most of us never give it a second thought. However, some ATMs are quietly being turned into cash machines for criminals.
+
+The Federal Bureau of Investigation recently issued a cybersecurity alert about a rise in malware attacks targeting ATMs. These incidents are known as jackpotting attacks. In simple terms, hackers force machines to spit out money on command.
+
+The numbers are growing. Since 2020, nearly 1,900 attacks have been reported. More than a third occurred just last year. In 2025 alone, losses have already exceeded $20 million. So what is really happening inside these machines, and why is the threat accelerating now?
+
+Sign up for my FREE CyberGuy ReportGet my best tech tips, urgent security alerts, and exclusive deals delivered straight to your inbox. Plus, you’ll get instant access to my Ultimate Scam Survival Guide - free when you join my CYBERGUY.COM newsletter.
+
+HOW DEBIT CARD FRAUD CAN HAPPEN WITHOUT USING THE CARD
+
+The FBI warns of rising ATM "jackpotting" attacks, where hackers force machines to dispense cash using malware. (TIM SLOAN/AFP via Getty Images)
+
+How ATM jackpotting attacks work
+
+This is not a Hollywood hacking scene. In many cases, attackers use generic keys to open the ATM's maintenance cabinet. Once inside, they remove the storage drive. Then they load malware onto it or swap it with a compromised one.
+
+After rebooting the machine, the malicious software takes control. One of the most widely used tools is a malware strain called Ploutus. It targets software known as XFS, which ATMs use to communicate with bank networks and authorize transactions.
+
+Instead of asking the bank for permission, the malware overrides that process. It sends its own commands to the machine. The result? The ATM dispenses cash without a card, without an account and without a legitimate transaction. That is jackpotting.
+
+Here is the uncomfortable truth. Many ATMs run on aging versions of Windows. Some machines have even displayed Windows 7 login screens. That operating system was released in 2009 and officially discontinued years ago.
+
+Outdated software creates opportunity. If attackers find a vulnerability in the Windows operating system, they can exploit it across different ATM brands and financial networks. The FBI says these attacks are not tied to one specific bank or ATM manufacturer. Instead, they target common weaknesses shared across systems.
+
+That makes the problem much bigger. And with hundreds of thousands of ATMs deployed across the U.S., upgrading and securing every machine will take time.
+
+FEDS CHARGE 87 INDIVIDUALS IN MASSIVE ATM 'JACKPOTTING' OPERATION LINKED TO TREN DE ARAGUA GANG
+
+Nearly 1,900 ATM jackpotting attacks have been reported since 2020, with losses topping $20 million in 2025 alone. (Robert Alexander/Getty Images)
+
+The FBI has outlined several defensive steps for financial institutions:
+
+These are practical fixes. But rolling them out nationwide is a slow process. Meanwhile, attackers continue to look for weak targets.
+
+You might be thinking this sounds like a bank problem, not a personal one. Technically, consumers are not the direct victims in these cases. Unlike Bitcoin ATM scams that have cost individuals hundreds of millions, jackpotting attacks hit financial institutions. However, there is a ripple effect.
+
+When banks lose money, insurance companies pay claims. Eventually, those costs show up somewhere. Higher fees. Increased service charges. Stricter policies. In the end, everyday customers absorb the impact. Cybercrime rarely stays contained.
+
+HOW TO SAFELY VIEW YOUR BANK AND RETIREMENT ACCOUNTS ONLINE
+
+Cybercriminals are exploiting outdated ATM software to override bank controls and trigger unauthorized cash withdrawals. (Justin Sullivan/Getty Images)
+
+How to protect yourself when using ATMs
+
+While ATM jackpotting attacks primarily target banks, you can still take smart steps to protect yourself when using cash machines.
+
+Choose machines inside bank branches or in busy areas with foot traffic. These locations are more likely to be monitored and maintained.
+
+Criminals need physical access to tamper with machines. High traffic areas during regular business hours reduce that risk.
+
+If a machine suddenly reboots, freezes or behaves strangely, stop immediately. Do not insert your card. Report the issue to the bank right away.
+
+Check for loose panels, exposed wiring or unusual attachments near the card slot or keypad. If something looks off, use a different machine.
+
+Shield your PIN with your hand as you type. This protects you from hidden cameras and shoulder surfers who may try to capture your code.
+
+Enable text or app notifications for withdrawals and account activity. Instant alerts help you act quickly if anything unexpected appears.
+
+Even though jackpotting bypasses customer accounts, fraud tactics evolve. Review your transactions often so you can catch unauthorized charges early.
+
+Identity theft protection services can provide alerts about unusual financial activity across your accounts. Think of it as an added layer of awareness rather than a fix for ATM malware. See my tips and best picks on Best Identity Theft Protection at Cyberguy.com.
+
+Many banks offer cardless access through secure mobile apps. This reduces exposure to skimming devices and physical tampering.
+
+Install updates promptly to ensure you have the latest security patches and protections.
+
+Staying alert lowers your risk and reinforces good habits, even when attackers are targeting financial institutions rather than individual customers.
+
+ATM jackpotting attacks reveal something important. Even familiar machines can hide modern vulnerabilities. Most of us rarely think about the software running inside a cash dispenser. Yet those systems rely on the same operating foundations as home and office computers. When they fall behind on updates, criminals notice. The FBI alert is not a reason to panic. It is a reminder that digital security touches nearly every part of daily life, even the simple act of withdrawing cash.
+
+How much trust do you place in the technology you use every day without ever seeing how it works? Let us know by writing to us at Cyberguy.com.
+
+CLICK HERE TO DOWNLOAD THE FOX NEWS APP
+
+Sign up for my FREE CyberGuy ReportGet my best tech tips, urgent security alerts, and exclusive deals delivered straight to your inbox. Plus, you’ll get instant access to my Ultimate Scam Survival Guide - free when you join my CYBERGUY.COM newsletter.
+
+Copyright 2026 CyberGuy.com.  All rights reserved.
+
+Kurt "CyberGuy" Knutsson is an award-winning tech journalist who has a deep love of technology, gear and gadgets that make life better with his contributions for Fox News & FOX Business beginning mornings on "FOX & Friends." Got a tech question? Get Kurt’s free CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com.
