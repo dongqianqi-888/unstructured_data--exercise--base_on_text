@@ -1,0 +1,370 @@
+=== GitHub AI / Knowledge Distillation - Issues 评论 ===
+Fetched At: 2026-05-12 17:33:48.573324
+Total Repositories: 5
+=========================================================
+
+
+=== Repository: dkozlov/awesome-knowledge-distillation ===
+
+Thank you for contribution!
+Thank you for contribution!
+Hello @lartpang,
+Could you please make a pull request with above papers? 
+OK, I'm glad to do it.
+Thank you for contribution!
+Thank you for contribution!
+Got it.
+Hello @HFooladi,
+
+Could you please make a pull request with the above papers and implementation?
+Thank you for contribution!
+Thank you for contribution!
+Hello, thank you for contributing!
+Could you please clarify the issue
+Thanks for the contribution!
+Thank you for the contribution!
+Hello @KaiyuYue ! Could you please add direct link to the arxiv (https://arxiv.org/abs/2008.09958) instead of http://kaiyuyue.com/mgd/?
+Also please trim new line
+Done. Please check it out. :)
+Thank you for the contribution!
+Thank you for the contribution!
+Hello, could you please add the year and author to each paper reading videos?
+=== Repository: FLHonker/Awesome-Knowledge-Distillation ===
+
+https://github.com/dkozlov/awesome-knowledge-distillation  这个也很不错
+感谢建议，所有的pdf在arXiv上都是可以下载的，文章链接就不放了，不太美观，后面会把code开源的项目链接加上的
+I found it, thanks.
+[image: image.png]
+
+
+Xialei Liu <notifications@github.com> 于2020年2月19日周三 下午7:12写道：
+
+> Could you help to add this paper belonging to structured distillation I
+> think:
+>
+> Yu, Lu, Vacit Oguz Yazici, Xialei Liu, Joost van de Weijer, Yongmei Cheng,
+> and Arnau Ramisa. "Learning Metrics from Teachers: Compact Networks for
+> Image Embedding." In Proceedings of the IEEE Conference on Computer Vision
+> and Pattern Recognition, pp. 2907-2916. 2019.
+>
+> —
+> You are receiving this because you are subscribed to this thread.
+> Reply to this email directly, view it on GitHub
+> <https://github.com/FLHonker/Awesome-Knowledge-Distillation/issues/3?email_source=notifications&email_token=AE4FDPJ3BZA47X2I5WTTDXLRDUHYLA5CNFSM4KXXE55KYY3PNVWWK3TUL52HS4DFUVEXG43VMWVGG33NNVSW45C7NFSM4IOTIZ5A>,
+> or unsubscribe
+> <https://github.com/notifications/unsubscribe-auth/AE4FDPKOWNBKINNIF56IFQDRDUHYLANCNFSM4KXXE55A>
+> .
+>
+
+thanks!
+ok, thanks！
+
+--
+
+Best Regards,
+
+--------------------------------------------
+
+Frank Liu(刘宇昂)  Ph.D.
+
+East China Normal University(ECNU)
+
+E-mail: frankliu624@outlook.com <frankliu624@163.com>
+
+Address: No.3663, North Zhongshan Road, Putuo District, Shanghai
+
+
+
+刘宇昂
+
+华东师范大学
+
+地址：中山北路校区：上海市普陀区中山北路3663号  200062
+
+
+Vasileios Lioutas <notifications@github.com> 于2020年4月11日周六 上午7:59写道：
+
+> ------------------------------
+> You can view, comment on, or merge this pull request online at:
+>
+>   https://github.com/FLHonker/Awesome-Knowledge-Distillation/pull/4
+> Commit Summary
+>
+>    - Add one paper
+>    - Add one paper
+>
+> File Changes
+>
+>    - *M* README.md
+>    <https://github.com/FLHonker/Awesome-Knowledge-Distillation/pull/4/files#diff-04c6e90faac2675aa89e2176d2eec7d8>
+>    (1)
+>
+> Patch Links:
+>
+>    -
+>    https://github.com/FLHonker/Awesome-Knowledge-Distillation/pull/4.patch
+>    -
+>    https://github.com/FLHonker/Awesome-Knowledge-Distillation/pull/4.diff
+>
+> —
+> You are receiving this because you are subscribed to this thread.
+> Reply to this email directly, view it on GitHub
+> <https://github.com/FLHonker/Awesome-Knowledge-Distillation/pull/4>, or
+> unsubscribe
+> <https://github.com/notifications/unsubscribe-auth/AE4FDPLWSZMUPJNHKMPNK5LRL6XGPANCNFSM4MFYSQBA>
+> .
+>
+
+> 您好，感谢分享，感觉目前与推荐相关的paper较少，所以想问问您，是因为这部分内容比较新，还是说有比较严重的问题难以开展研究？
+
+本仓库主要收集CV相关的paper，发现有新paper欢迎贡献~
+推荐上所用的KD方法基本上是从CV迁过去的，方法上不算很新，也没有难以解决的问题，可能创新度不够吧。
+> > 您好，感谢分享，感觉目前与推荐相关的paper较少，所以想问问您，是因为这部分内容比较新，还是说有比较严重的问题难以开展研究？
+> 
+> 本仓库主要收集CV相关的paper，发现有新paper欢迎贡献~
+> 推荐上所用的KD方法基本上是从CV迁过去的，方法上不算很新，也没有难以解决的问题，可能创新度不够吧。
+
+好的，非常感谢，如果能单独划分出`检索&推荐`的子标题就更好了
+no problem
+> Thank u for your contribution.
+> Cloud i create a new branch that add a category “kd in rec”?
+> thank u again!
+
+You'd better to create a new subsection after 'for NLP' in 'Application' following my format, thanks!
+> Thank u for your contribution.
+> Cloud i create a new branch that add a category “kd in rec”?
+> thank u again!
+
+How many papers about RecSys have you sorted? Could you please transfer them to me or add to the repository?
+ok,thanks!
+I saw these papers today, would you mind to add it to the list so it is possible to refer to it when needed, through this repo.....
+
+Knowledge Distillation as Efficient Pre-training: Faster Convergence, Higher Data-efficiency, and Better Transferability
+https://arxiv.org/pdf/2203.05180v2.pdf
+
+Knowledge Distillation via the Target-aware Transformer
+https://arxiv.org/pdf/2205.10793.pdf
+
+Knowledge Distillation with the Reused Teacher Classifier
+https://arxiv.org/pdf/2203.14001.pdf
+
+Decoupled Knowledge Distillation
+https://arxiv.org/pdf/2203.08679.pdf
+
+Self-Distillation from the Last Mini-Batch for Consistency Regularization
+https://arxiv.org/pdf/2203.16172.pdf
+@agupt013 can you add these cvpr 2022 papers as well to your pull request? Thanks
+
+DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers: https://arxiv.org/pdf/2204.12997.pdf
+Knowledge Distillation with the Reused Teacher Classifier: https://arxiv.org/pdf/2203.14001.pdf
+Self-Distillation from the Last Mini-Batch for Consistency Regularization: https://arxiv.org/pdf/2203.16172.pdf
+Decoupled Knowledge Distillation: https://arxiv.org/pdf/2203.08679.pdf
+Co-advise: Cross Inductive Bias Distillation: https://arxiv.org/pdf/2106.12378.pdf
+Added this to my new commit along with issue #23 . Will raise a merge request.
+@FLHonker Can you please approve the merge request?
+@agupt013 can you add the papers I mentioned in Issue #21 to your PR? Thanks
+=== Repository: HobbitLong/RepDistiller ===
+
+Thanks for correcting it!
+Hi, @yaxingwang,
+
+Thanks for you interest. 
+
+The short answer is that the student-teacher combinations in this paper are randomly picked. I did not tune student-teacher combination such that our method could perform the best. 
+
+Your question actually reveals my initial thoughts of extending previous benchmark. I think most previous methods do not evaluate the performance on variance teacher-student combinations. For instance, Attention Transfer (AT) mainly consider WideResNet, and ResNet, and recent paper Similarity Preserving (SP) mainly consider WideResNet, MobileNet, and ShuffleNet. Additionally, most methods consider the teacher and student models to be of the same architectural type. 
+
+So I was trying to test those state-of-the-art methods with randomly picked various student-teacher combinations, and wanted to see how the performance would change. And I also divided these combinations into two groups: (1) of the same architectural type, or (2) of different types. As you may see from the two tables from the paper, some method significantly drops when dealing with group (2).
+
+Lastly, though our CRD is the best among these randomly picked combinations in our paper, I think it's with high probability that it could not consistently be the best in all exhaustive combinations. But in general, it should not be very sensitive to different models, as you can see that we do not require specific architectural inductive bias in our algorithm.
+Thank you for your reply, @HobbitLong . It is good insight to compare the picked randomly student teacher pair.  CRD mine additionally the _structural_ knowledge, which is great complementary for KD. 
+Can you please first follow all default setting on a single GPU to check the performance? 
+
+I did not run on 8 GPUs. So the default learning rate 0.05 is perhaps mostly suitable for batch size of 64. Maybe you need to scale the learning rate linearly according to the batch size, see [this paper](https://arxiv.org/pdf/1706.02677.pdf)
+
+Even you scale up the learning rate, the default setting might still be slightly better. I have compared two settings: (1) batch size of 64, learning rate 0.05; (2) batch size of 128, learning rate 0.1. In general, training from scatch with (1) gives better vanilla models, so I stick to (1). That's also why If you compare my vanilla models with other papers, you could see our baseline is stronger.
+@xuguodong03 
+
+I also found something I did not describe in the repo. It has been described in the paper, though.
+
+When training the following 3 models with batch size of 64, you need a learning rate 0f 0.01 to achieve better accuracy (better than 0.05): `'MobileNetV2', 'ShuffleV1', 'ShuffleV2'`. I just added two lines [here](https://github.com/HobbitLong/RepDistiller/blob/master/train_teacher.py#L54-L56) to hard-code it. Please pull it again and sorry for missing it :(
+
+I guess part of the reason of underperformance when student and teacher are of different architectures, is that you used different learning rates. For example, when using above 3 models as student and distilling from teacher model, the learning rate is correctly set as 0.01 (which was hard-coded), but it is incorrect (0.05) for the vanilla model (as I forgot to hard-code it, now fixed). And if you divide the learning rate by # of gpus, e.g., 8, things get reversed. The second wrong one actually becomes better (0.008), and the first one (originally better on single GPU) becomes worse (0.00125). 
+Hi @LiqunChen0606 ,
+
+It sounds like your `datasets.CIFAR100` object does not have the `train_data` attribute, which might relate to `torchvision`.
+
+How about switching torchvision version back to version of 0.2.1?
+
+===
+update:
+for torchvision 0.4.1, you might want to use `self.data` and `self.targets` instead. See [here](https://github.com/pytorch/vision/blob/master/torchvision/datasets/cifar.py#L118)
+Thanks very much! Problem solved
+Hi, @HaoKun-Li ,
+
+The short answer is that, these two can be viewed as two constants to scale up the dynamic range of the score function.
+
+Typically, NCE can deal with unnormalized distribution and will automatically adjust the score range. 
+In this specific case, the score is produced by the inner product of two l2-normalized vector, which means it's range is [-1, 1]. This range might not be enough for NCE's score adjustment. So here `Z_v1` and `Z_v2` are very simple monte carlo estimation of the partition function of full softmax (see sec 2.4 in [this paper](https://arxiv.org/pdf/1906.05849.pdf) and  sec 3.4 in [this paper](https://arxiv.org/pdf/1805.01978.pdf)) to help adjust the score range a bit.
+Thanks for your reply! 
+@HaoKun-Li , you are welcomed. I just closed it, but feel free to reopen it if you would like to discuss more.
+For all methods (including KD), I only tune hyper-parameters for one of the pair. After that, I kept those parameters fixed and evaluated on other pairs.
+
+T=4 is what I found optimal and also consistent with previous works. I think you are right, it might be different for different pairs. But on the other hand, the point of this benchmark is to see the generalization ability of different methods, i.e., you can use the same hyper-parameters on different models but still get good performance.
+
+
+Hi, @iiSeymour ,
+
+This is an interesting question! I haven't got chance to look into it, but my guess is somewhere between 2~10 for teacher-student ratio.
+Hi, @xjcvip007 
+
+Thank you for your thoughtful question! I did not try.
+
+But my initial guess is that it would be compatible. Because our method is essentially representation learning. Wherever representation learning works, it might also work as well. 
+Great, thanks.
+@splinter21 , could you please rephrase the description into English so that other readers can understand it? Thanks!
+
+Generally, it's possible that the student can get higher accuracy that the teacher model. One example is the teacher model is identical to the student model, but you can expect the student model to achieve higher accuracy. Though I have no theoretical analysis of it, my guess is that it can be thought of from either the ensemble perspective or label smoothing perspective.
+I have been struggling a bit to get KD work as well on ImageNet with ResNet-18 as the student network.
+
+I used `--distill kd -r 0.5 -a 0.9` and trained for 100 epochs in total with learning rate decayed at 30,60,90 epochs.
+
+See below for training and testing curves, which I cropped out from previous manuscripts where `CRD` here is historically named as `CKD`:
+![imagenet](https://user-images.githubusercontent.com/29867600/70411344-ed8d7300-1a1f-11ea-92c3-63d161f479e7.png)
+
+@HobbitLong 
+Besides, I notice that the outputsize equals the length of the dataset in Cifar100 (Here is 50K). Is it the same in ImageNet which has more than 1M training images?
+Hi, @HelloTobe 
+> I'm wondering why do you register two memories here in
+self.register_buffer('memory_v1', torch.rand(outputSize, inputSize).mul_(2 * stdv).add_(-stdv)) self.register_buffer('memory_v2', torch.rand(outputSize, inputSize).mul_(2 * stdv).add_(-stdv))，
+
+A linear projection layer still needs to be learned during the training. This layer acts to align the feature dimension of student and teacher.
+
+> Besides, I notice that the outputsize equals the length of the dataset in Cifar100 (Here is 50K). Is it the same in ImageNet which has more than 1M training images?
+
+That's related to NCE. Just let outputsize = len(dataset) should suffice. Therefore it's 1M in ImageNet.
+@HobbitLong 
+Many thanks!
+Hi, @HobbitLong 
+`weight_v1 = torch.index_select(self.memory_v1, 0, idx.view(-1)).detach()`
+`weight_v1 = weight_v1.view(batchSize, K + 1, inputSize)`
+`out_v2 = torch.bmm(weight_v1, v2.view(batchSize, inputSize, 1))`
+
+According to the above code, why in the following  `memory_v1` is updated with `v1` instead of `v2`? Since there is no relation  between `memory_v1` and `v1`.
+
+`l_pos = torch.index_select(self.memory_v1, 0, y.view(-1))`
+` l_pos.mul_(momentum)`
+`l_pos.add_(torch.mul(v1, 1 - momentum))`
+=== Repository: haitongli/knowledge-distillation-pytorch ===
+
+an alternative folder link:
+https://office365stanford-my.sharepoint.com/:u:/g/personal/haitongl_stanford_edu/ESqCguWIU1JHoMJJyu8eDIABcp9UX5VzPp1VQvhzNjllGw?e=HMPjwA
+
+let me know if this works (if you can access Box.com and/or Onedrive, both original README link and this one should work fine)
+the link works fine, thanks 
+it would better help me understand your question if you could mention which file & lines that you were referring to.
+oh It is in model /net.py/ loss_fn_kd function, line 107. 
+I see. You can refer to the definition/document of PyTorch's KL Divergence loss (KLDivLos). Here it requires inputs to be probability distributions and log-probability distributions, and that's why we're using softmax and log-softmax on teacher/student outputs (which were raw scores).
+Thanks for your reply.
+Hi akarle,
+
+Thanks! It has been merged. 
+@peterliht  Why KL divergence is used to compute KD-loss? The paper "Distilling the Knowledge in a Neural Network" says,
+> The first objective function is the cross entropy with the soft targets
+
+The KD-loss should be `-\sum_{i=1}^C soft_target_i * \log(softmax(student_cls_output_i / T))`？
+@xmfbit Indeed, initially I was trying to directly implement cross entropy with the soft targets. However, note in PyTorch, the built-in CrossEntropy loss function only takes “(output, target)” where the target (i.e., label) is not one-hot encoded (which is what KD loss needs). That's why I turned to using KL divergence, since they two will lead to the same optimization results, and KL divergence works naturally with our data representations.
+
+You're welcome to try to define a customized CrossEntropy loss function that also leverages PyTorch’s optimized C-backend (you could also define one from scratch, but that might be very slow). If successful, please let us know. Thanks!  
+Ok. I understand your words. This is my naive implementation. I only tested it on MNIST, so the speed is not very important 😅 :
+```
+        x, target = x.to(device), target.to(device)
+        with torch.no_grad():
+            out = teacher(x)
+            soft_target = F.softmax(out/T, dim=1)
+        hard_target = target
+        out = student(x)  ## this is the input to softmax
+        logp = F.log_softmax(out/T, dim=1)
+        loss_soft_target = -torch.mean(torch.sum(soft_target * logp, dim=1))
+        loss_hard_target = nn.CrossEntropyLoss()(out, hard_target)
+        loss = loss_soft_target * T * T + alpha * loss_hard_target
+```
+Can you clarify the question a bit more? What is the specific concern?
+So the way the student model gets trained follows the same way of the teacher model. For one epoch, the training batches are used to compute KD loss to train the student. Then for another epoch, although dataloader is shuffled, KD loss should be still correct given new batches.
+For example, If we have a dataset with 20 [image, label] pairs.  We set the batch size to 4. So there are 5 iters in each epoch. We mark the origin data series indices 0~19.
+
+In the code, we first fetch teacher outputs in one epoch,  maybe the shuffled series indices is [[0,5,6,8],[7,9,2,4],[...],[...],[...]].
+
+Then in kd training, another epoch, we need to caculate kd loss by (student outputs & teacher outputs & the labels).  Now in current epoch, the indices may be shuffled to [[1,3,6,9],[10,2,8,7],[...],[...],[...]].  In code train.py:215, we get output_teacher_batch by i which is the new index of iters.  While i is 0, the teacher outputs is from data [0,5,6,8] while the student outputs is from data [1,3,6,9]. 
+
+I don't know whether I have the incorrect understanding. Thanks!
+Sorry I did not fully understand. If you have time & are interested, could you run the test based on your understanding? Right now the KD-trained accuracies are consistently higher than native models, though it's only a bit higher. If your modification works better or makes better sense, feel free to make a pull request. Thanks in advance!
+OK, I'll do that if I have a conclusion. Thanks.
+Wait I think I get what you were saying. Basically, we need to verify that during training of the student model at each epoch, the batch sequence in the train dataloader stays the same as what was used during training of the teacher model. To that end, I think the PyTorch should be able to take care of that when specifying a random seed for reproducibility? 
+Maybe not. 
+It's easy to verify. The following is a simple example:
+
+```
+dataloader = ...   # in which the shuffle switch is turned ON.
+for i in range(10):
+    i = 0
+    for img_batch, label_batch in dataloader:
+        if i == 0:
+            print(label_batch)
+        i += 1
+```
+
+By comparing the first batch of 10 epoch, We can see the result.
+
+
+I think the random seed can only make the behavior the same for different runs.
+But can not make the behavior the same for different epochs in a certain run.
+Dataset is GTSRB, 43 classes.
+Hi,
+
+It looks like you proposed to remove tensorflow in requirements file, and block-comment the tensorboard class. My question is: if an user would like to use tensorboard for visualization (though I do have included utils for stdout progress bar), would that cause trouble during package initialization? I think it makes better sense not to modify requirements file, but then the question is: would block-commenting the tf class speed-up the computation?
+hi,
+Since I wouldn't like to install tensor-flow to pytorch-virtualenv, I deleted the tensor-flow from that. I believe this change is convenient for the person who'd like to try this code quickly.
+I'm not sure about if it makes speed-up, but perhaps it could be.
+=== Repository: AberHu/Knowledge-Distillation-Zoo ===
+
+Sorry for later reply. From my perspective, different kd losses are suitable for different tasks. For classification, the orginal KD (soft target) is ok, because it can be treated a variation of label smoothing regularization. You may tune the temperature and the trade-off parameters in soft target. Another tow kd losses for classification I recommended are sp and cc. Hope these kd losses have helped.
+The memory bank is updated by moving average with a momentum of `nce_mom`, so both random initialization and zero initialization work. However, if zero initialization, in the first or the first few forward passes, the `weight_t` and `weight_s` are zeros, making the `out_t` and `out_s` are zeros. In this situation, CRD loss is destroyed.
+Thank you so much. I got it.
+> Dose anyone reproduce the result of WRN-28-10 in DML? I found that the accuracy is 80.75 in original paper while in DML it is 78.69.
+
+I am facing the same issue w.r.t the results of ResNet-32 on cifar-100. The paper reported 68.99% but I am getting around 71%. 
+> Thank you very much for your project and it has helped me a lot. But I have some doubts about `train_st.py`.
+> 
+> https://github.com/AberHu/Knowledge-Distillation-Zoo/blob/b7bce273d9ee85331a75f5423d7b65c8834b04df/train_st.py#L184-L188
+> 
+> Here `lambda_st` is similar to a relaxation factor. But I see the following formula elsewhere.
+> 
+> ```python
+>  cls_loss = criterionCls(output_s, target) 
+>  st_loss  = criterionST(F.log_softmax(output_s/args.T, dim=1), 
+>  	                   F.softmax(output_t/args.T, dim=1)) * (args.T*args.T) / img.size(0) 
+> 
+>  loss = (1 - * args.lambda_st ) * cls_loss + st_loss * args.lambda_st 
+> ```
+> 
+> Could you tell me the impact of the two?
+> 
+> https://github.com/PolarisShi/distillation/blob/8290b4b2138410cb4f1f39ecf2411f7dbb2a676a/student2.py#L218-L223
+
+hello, I feel a little confused about it ,too. May you explain it to me? Thanks a lot
+@Ga-Lee  My own guess is that it depends more on the loss of ground truth. `st_loss` exists as a constraint. Either should work, but it may depend on the specific downstream task.
+> @Ga-Lee My own guess is that it depends more on the loss of ground truth. `st_loss` exists as a constraint. Either should work, but it may depend on the specific downstream task.
+
+Got that, thank you~
+Yeah it is strange that is has the `log` there. I found [another implementation](https://github.com/SforAiDl/KD_Lib/blob/9b29607913/KD_Lib/KD/vision/vanilla/vanilla_kd.py) that did not use `log` but `softmax` only for both Teacher and Student.
+
+
+As you might have already known it, when we modify the  `F.log_softmax(out_s/self.T, dim=1)` in to `F.softmax(out_s/self.T, dim=1)`, the `KD` output is **negative**. 
+
+Do you have any ideas why?
+
+<img width="1877" alt="image" src="https://user-images.githubusercontent.com/1311412/177104615-6df9104c-b54b-4047-8cae-134b95396d1a.png">
+
+I asked another researcher and here is the answer https://github.com/yoshitomo-matsubara/torchdistill/issues/233
+I have the same question. Have you figured it out? Do you know how to train the "hints" ? Thx
